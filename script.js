@@ -76,3 +76,4 @@ if (personalMovieDB.count < 10) {
 }
 //выводим и проверяем что все работает
 console.log(personalMovieDB);
+
